@@ -1,0 +1,148 @@
+{
+  "updated_at": "2026-11-20T00:00:00Z",
+  "snapshots": [
+    {
+      "date": "2024-10-17",
+      "label": {
+        "zh": "转置期限届满",
+        "en": "Transposition deadline"
+      },
+      "member_state_count": 27,
+      "decision_round_count": 0,
+      "note": {
+        "zh": "这是程序基线，不是对 27 国实体合规的判断。",
+        "en": "A procedural baseline, not a substantive compliance finding for all 27 states."
+      },
+      "source_url": "https://eur-lex.europa.eu/eli/dir/2022/2555/oj"
+    },
+    {
+      "date": "2024-11-28",
+      "label": {
+        "zh": "23 国正式通知",
+        "en": "Formal notice to 23 states"
+      },
+      "member_state_count": 27,
+      "decision_round_count": 1,
+      "decision_scope_count": 23,
+      "note": {
+        "zh": "首个公开侵权程序批次；批次覆盖不等于当前状态。",
+        "en": "The first public infringement batch; batch coverage is not the current status."
+      },
+      "source_url": "https://digital-strategy.ec.europa.eu/en/news/commission-calls-23-member-states-fully-transpose-nis2-directive"
+    },
+    {
+      "date": "2025-05-07",
+      "label": {
+        "zh": "19 国理由意见",
+        "en": "Reasoned opinion to 19 states"
+      },
+      "member_state_count": 27,
+      "decision_round_count": 2,
+      "decision_scope_count": 19,
+      "note": {
+        "zh": "第二个公开批次；欧委会给予两个月回应期限。",
+        "en": "The second public batch; the Commission gave the states two months to respond."
+      },
+      "source_url": "https://digital-strategy.ec.europa.eu/en/news/commission-calls-19-member-states-fully-transpose-nis2-directive"
+    },
+    {
+      "date": "2026-07-08",
+      "label": {
+        "zh": "4 国转交 CJEU",
+        "en": "CJEU referral for 4 states"
+      },
+      "member_state_count": 27,
+      "decision_round_count": 3,
+      "decision_scope_count": 4,
+      "note": {
+        "zh": "公开决定链条进入 CJEU 转交阶段，并提出罚款请求。",
+        "en": "The public decision chain reached the CJEU referral stage with a request for financial penalties."
+      },
+      "source_url": "https://digital-strategy.ec.europa.eu/en/news/commission-refers-ireland-spain-france-and-netherlands-court-justice-failing-transpose-rules"
+    },
+    {
+      "date": "2026-11-20",
+      "label": {
+        "zh": "当前登记簿快照",
+        "en": "Current registry snapshot"
+      },
+      "member_state_count": 27,
+      "current_notified_count": 23,
+      "current_referred_count": 4,
+      "decision_round_count": 3,
+      "decision_scope_count": 4,
+      "note": {
+        "zh": "当前 27 国登记簿；当前状态与历史批次覆盖分开计算。",
+        "en": "Current 27-state registry; current status is calculated separately from historical batch coverage."
+      },
+      "source_url": "https://digital-strategy.ec.europa.eu/en/policies/nis-transposition"
+    }
+  ],
+  "changes": [
+    {
+      "date": "2024-10-17",
+      "kind": "deadline",
+      "title": {
+        "zh": "NIS2 转置期限届满",
+        "en": "NIS2 transposition deadline passed"
+      },
+      "summary": {
+        "zh": "成员国应完成 NIS2 国内转置并向欧委会通知措施。",
+        "en": "Member States were expected to complete national transposition and notify the Commission."
+      },
+      "source_url": "https://eur-lex.europa.eu/eli/dir/2022/2555/oj"
+    },
+    {
+      "date": "2024-11-28",
+      "kind": "formal_notice",
+      "title": {
+        "zh": "欧委会对 23 国发出正式通知",
+        "en": "Commission sent formal notices to 23 states"
+      },
+      "summary": {
+        "zh": "公开决定登记簿新增首个 NIS2 侵权程序批次。",
+        "en": "The public decision register gained the first NIS2 infringement batch."
+      },
+      "source_url": "https://digital-strategy.ec.europa.eu/en/news/commission-calls-23-member-states-fully-transpose-nis2-directive"
+    },
+    {
+      "date": "2025-05-07",
+      "kind": "reasoned_opinion",
+      "title": {
+        "zh": "欧委会对 19 国发出理由意见",
+        "en": "Commission sent reasoned opinions to 19 states"
+      },
+      "summary": {
+        "zh": "19 国进入理由意见阶段；该历史覆盖与当前状态独立展示。",
+        "en": "Nineteen states entered the reasoned-opinion stage; historical coverage remains separate from current status."
+      },
+      "source_url": "https://digital-strategy.ec.europa.eu/en/news/commission-calls-19-member-states-fully-transpose-nis2-directive"
+    },
+    {
+      "date": "2026-07-08",
+      "kind": "cjeu_referral",
+      "title": {
+        "zh": "爱尔兰、西班牙、法国和荷兰转交 CJEU",
+        "en": "Ireland, Spain, France and the Netherlands referred to the CJEU"
+      },
+      "summary": {
+        "zh": "欧委会公开了四国转交和罚款请求，登记簿将其标为当前重点关注。",
+        "en": "The Commission published the four referrals and penalty request; the registry marks them as the current attention queue."
+      },
+      "source_url": "https://digital-strategy.ec.europa.eu/en/news/commission-refers-ireland-spain-france-and-netherlands-court-justice-failing-transpose-rules"
+    },
+    {
+      "date": "2026-11-20",
+      "kind": "data_refresh",
+      "title": {
+        "zh": "登记簿刷新为 27 国国家矩阵",
+        "en": "Registry refreshed as a 27-state country matrix"
+      },
+      "summary": {
+        "zh": "补充国家页的转置状态、国家战略入口、主管机关、CSIRT 和 SPOC；缺失字段仍保持未提供。",
+        "en": "Country-page transposition states, strategy entries, authorities, CSIRTs and SPOCs were added; missing fields remain unavailable."
+      },
+      "source_url": "https://digital-strategy.ec.europa.eu/en/policies/nis-transposition"
+    }
+  ]
+}

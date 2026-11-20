@@ -1,0 +1,29 @@
+{
+  "updated_at": "2026-11-20T00:00:00Z",
+  "items": [
+    {
+      "title": "Commission refers Ireland, Spain, France and the Netherlands to the Court of Justice over NIS2 transposition",
+      "title_zh": "欧委会将爱尔兰、西班牙、法国和荷兰的 NIS2 案件转交欧盟法院",
+      "link": "https://digital-strategy.ec.europa.eu/en/news/commission-refers-ireland-spain-france-and-netherlands-court-justice-failing-transpose-rules",
+      "date": "2026-07-08",
+      "summary": "Public referral decision covering four Member States that had not notified full transposition measures.",
+      "summary_zh": "公开转交决定覆盖 4 个尚未通知完整转置措施的成员国。"
+    },
+    {
+      "title": "Commission calls on 19 Member States to fully transpose the NIS2 Directive",
+      "title_zh": "欧委会向 19 个成员国发出理由意见，要求完成 NIS2 转置",
+      "link": "https://digital-strategy.ec.europa.eu/en/news/commission-calls-19-member-states-fully-transpose-nis2-directive",
+      "date": "2025-05-07",
+      "summary": "Reasoned opinion batch recorded as a historical infringement-procedure stage for 19 Member States.",
+      "summary_zh": "记录 19 个成员国的历史理由意见批次，作为正式程序阶段保存。"
+    },
+    {
+      "title": "Commission calls on 23 Member States to fully transpose the NIS2 Directive",
+      "title_zh": "欧委会向 23 个成员国发出正式通知，要求完成 NIS2 转置",
+      "link": "https://digital-strategy.ec.europa.eu/en/news/commission-calls-23-member-states-fully-transpose-nis2-directive",
+      "date": "2024-11-28",
+      "summary": "Formal-notice batch opened infringement procedures after the 17 October 2024 transposition deadline.",
+      "summary_zh": "在 2024 年 10 月 17 日转置期限后启动 23 国正式通知程序。"
+    }
+  ]
+}
